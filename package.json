@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Socket IO para app de ingreso de pacientes",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0"
   }
 }
